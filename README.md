@@ -17,6 +17,7 @@ tfidf_object = tfIDF(dataset)
 Make sure you have python installed
 
 there are several function you can call to get some info from tfidf object
+
 | Function | Descriptions |
 | ------ | ------ |
 | .getTFIDF() | return tfidf score of each word |
