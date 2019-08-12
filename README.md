@@ -1,4 +1,4 @@
-# Simple TF IDF Library
+# Simple TF IDF Example with no dependencies
 
 ### How to use !
   - Download or clone this repo https://github.com/naufalafif/tfidf.git (using terminal or command prompt)
